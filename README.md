@@ -37,7 +37,7 @@ Complete website design and implementation using WordPress and Elementor with re
 
 ---
 
-### malikhakimgroub.com
+### malikhakimgroup.com
 Current website: https://malikhakimgroub.com  
 
 **Role:** UI implementation & Front-end  
