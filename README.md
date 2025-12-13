@@ -38,7 +38,7 @@ Complete website design and implementation using WordPress and Elementor with re
 ---
 
 ### malikhakimgroup.com
-Current website: https://malikhakimgroub.com  
+Current website: https://malikhakimgroup.com  
 
 **Role:** UI implementation & Front-end  
 Full site creation with WordPress and Elementor, including responsive design and custom interactions.
@@ -54,7 +54,7 @@ Designed and implemented all pages in WordPress/Elementor, optimized for mobile 
 ---
 
 ### tazetazefood.ir
-Current website: https://tazetqzefood.ir  
+Current website: https://tazetazefood.ir  
 
 **Role:** UI implementation & Front-end  
 Complete WordPress/Elementor implementation, including custom styling and responsive adjustments.
