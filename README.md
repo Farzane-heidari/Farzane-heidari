@@ -20,10 +20,12 @@ Used HTML, CSS, and JavaScript for custom layouts, styling fixes, and interactiv
 ---
 
 ### AutoRent – Car Rental Website UI
-https://www.figma.com/community/file/1407354313359085447/auto-rent-car-rental-website  
 
-**Role:** UI design (Figma)  
-Designed a complete website UI for a car rental platform, focusing on clarity, layout structure, and usability.
+https://www.figma.com/community/file/1407354313359085447/auto-rent-car-rental-website
+
+**Role:** UI designer (Team Project, Published in Figma Community)
+Worked as part of a team to design the website UI for a car rental platform, focusing on clarity, layout structure, and usability.
+This project was selected and published in the Figma Community as a featured design.
 
 ---
 
