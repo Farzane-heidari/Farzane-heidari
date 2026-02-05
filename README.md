@@ -3,9 +3,9 @@
 UI Designer & WordPress Front-end Implementer
 
 ## About Me
-UI designer and front-end implementer with experience in **designing and implementing full websites** using WordPress and Elementor.  
-I also use HTML, CSS, and JavaScript for custom styling and interactions when needed.  
-Focused on responsive layouts and accurate UI implementation.
+UI designer and front-end implementer with experience in designing and implementing full websites using WordPress and Elementor.
+I also use HTML, CSS, and JavaScript for custom styling and interactions when needed.
+Focused on responsive layouts, accurate UI implementation, and custom visual content, including web sliders designed in Photoshop for interactive page elements.
 
 ## Selected Projects
 
@@ -94,12 +94,14 @@ Designed and implemented the site entirely with WordPress and Elementor, with re
 ---
 
 ## Tools & Skills
-- UI Design (Figma)  
-- WordPress  
-- Elementor  
-- Front-end Implementation  
-- HTML / CSS / JavaScript (for customization)  
-- Responsive Design
+•	UI Design (Figma)
+•	Web Slider Design (Adobe Photoshop)
+•	WordPress
+•	Elementor
+•	Front-end Implementation
+•	HTML / CSS / JavaScript (for customization)
+•	Responsive Design
+
 
 ## Contact
 📧 uiuxsite@gmail.com  
